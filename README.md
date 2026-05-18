@@ -1,16 +1,38 @@
-# lab7
+Mô tả bài Lab7
 
-A new Flutter project.
+Link chứ video demo: https://drive.google.com/drive/folders/1dNvIhgargmmNVDfnjsxLm5k12QkjTmhS?usp=sharing
 
-## Getting Started
+Ứng dụng được xây dựng với mục tiêu giúp sinh viên làm quen với:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cấu trúc dự án Flutter
+Widget cơ bản trong Flutter
+Thiết kế giao diện bằng Material Design
+Xử lý sự kiện khi người dùng nhấn nút
+Hiển thị dữ liệu trên màn hình
+Tổ chức bố cục bằng Column, Center, SizedBox
+Sử dụng StatefulWidget để cập nhật giao diện động
+Chức năng chính của ứng dụng
+Hiển thị giao diện người dùng trên điện thoại Android
+Có các thành phần như:
+Text
+ElevatedButton
+Column
+SingleChildScrollView
+Scaffold
+Cho phép người dùng tương tác thông qua nút bấm
+Giao diện được căn chỉnh và hiển thị theo bố cục dọc
+Công nghệ sử dụng
+Flutter Framework
+Dart Programming Language
+Android Studio
+Android Emulator (Pixel 6 API 36)
+Cấu trúc thư mục chính
+lib/
+Chứa mã nguồn chính của ứng dụng
+File main.dart là nơi khởi chạy app
+android/
+Chứa cấu hình chạy Android
+test/
+Chứa các file kiểm thử ứng dụng
+pubspec.yaml
+Khai báo thư viện và cấu hình dự án Flutter
